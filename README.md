@@ -11,6 +11,7 @@ Minimalistic static page builder. Based at node.js, eco templates, markdown.
 $ mkdir templates
 $ touch tempaltes/layout.eco // default extended template
 $ mkdir src // yours md files here
+$ make serve // serve site at http://127.0.0.1:5000
 ```
 
 ### Markdown:
@@ -34,6 +35,7 @@ alter:
 ## My Article
 ...
 ```
+
 
 
 
